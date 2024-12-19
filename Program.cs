@@ -30,19 +30,19 @@ namespace Day21___과제
             //buffManager.ShowActiveBuffs();
 
             /////////////////
-            barrack barrack = new barrack();
+            //barrack barrack = new barrack();
             
 
 
 
-            barrack.EnqueueUnit(new Marine(), "마린", 50);
-            barrack.EnqueueUnit(new medic(), "힐러", 70);
-            barrack.EnqueueUnit(new Marine(), "탱크", 3000);
+            //barrack.EnqueueUnit(new Marine(), "마린", 50);
+            //barrack.EnqueueUnit(new medic(), "힐러", 70);
+            //barrack.EnqueueUnit(new Marine(), "탱크", 3000);
 
 
 
-            barrack.DequeueUnit();
-            barrack.ShowQueueLine();
+            //barrack.DequeueUnit();
+            //barrack.ShowQueueLine();
 
 
 
